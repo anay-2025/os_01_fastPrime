@@ -15,7 +15,7 @@ Parallel processing logic refinement
 Time measurement correction
 Graph plotting assistance
 
-2️⃣ Manually Implemented Work -> 
+2️⃣ Manually Implemented Work :
 
 Final code implementation
 Compilation & execution in Linux/WSL
