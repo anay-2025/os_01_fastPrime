@@ -30,22 +30,25 @@ project-root/
 ├── README.md
 │
 ├── ai_code/
-│   ├── code.c
-│   └── readme.md
+│   ├── ai_generated_code.c
+│   └── README.md
 │
 ├── manual_code/
-│   ├── man_made_code.c
-│   └── readme.md
+│   ├── final_parallel_prime.c
+│   └── README.md
 │
 ├── screenshots/
 │   ├── outputs/
-│   │   ├── output(1-10k).png
-│   │   └── output(50-100k).png
+│   │   ├── output_1_to_10k.png
+│   │   └── output_50k_to_100k.png
 │   │
 │   └── graphs/
-│       ├── 1k-10k.png
-│       ├── 1k-10k2.png
-│       ├── 1k-10k3.png
-│       ├── 50k-100k.png
-│       ├── 50k-100k2.png
-│       └── 50k-100k3.png
+│       ├── 1k_to_10k_run1.png
+│       ├── 1k_to_10k_run2.png
+│       ├── 1k_to_10k_run3.png
+│       ├── 50k_to_100k_run1.png
+│       ├── 50k_to_100k_run2.png
+│       └── 50k_to_100k_run3.png
+│
+└── .gitignore
+
