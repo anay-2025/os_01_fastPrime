@@ -74,21 +74,21 @@ Range : [1k-10k]
 
 📊 [Plot 1](https://github.com/anay-2025/os_01_fastPrime/blob/main/screenshots/graphs/1k-10k.png)
 📊 [Plot 2](https://github.com/anay-2025/os_01_fastPrime/blob/main/screenshots/graphs/1k-10k2.png)
-📊 [Plot 3](path/to/file)
+📊 [Plot 3](https://github.com/anay-2025/os_01_fastPrime/blob/main/screenshots/graphs/1k-10k3.png)
 
 Range : [50k-100k]
 
-📊 [Plot 1](path/to/file)
-📊 [Plot 2](path/to/file)
-📊 [Plot 3](path/to/file)
+📊 [Plot 1](https://github.com/anay-2025/os_01_fastPrime/blob/main/screenshots/graphs/50k-100k.png)
+📊 [Plot 2](https://github.com/anay-2025/os_01_fastPrime/blob/main/screenshots/graphs/50k-100k2.png)
+📊 [Plot 3](https://github.com/anay-2025/os_01_fastPrime/blob/main/screenshots/graphs/50k-100k3.png)
 
 ---
 
 🧪 Sample Output 
 
-🖼️ [Output for range 1k-10k](path/to/file)
+🖼️ [Output for range 1k-10k](https://github.com/anay-2025/os_01_fastPrime/blob/main/screenshots/outputs/output(1-10k).png)
 
-🖼️ [Output for range 50k-100k](path/to/file)
+🖼️ [Output for range 50k-100k](https://github.com/anay-2025/os_01_fastPrime/blob/main/screenshots/outputs/output(50-100k).png)
 
 ---
 
