@@ -15,39 +15,8 @@ int isPrime(int n) {
     return 1;
 }
 
-int main() {
-    int rl, rh;
-    printf("Enter range lower range(rl) -> ");
-    scanf("%d", &rl);
-    printf("Enter range higher range(rh) -> ");
-    scanf("%d", &rh);
 
-    FILE *fp;
-    int n;
-    fp = popen("lscpu | grep '^CPU(s):' | awk '{print $2}'", "r");
-    fscanf(fp, "%d", &n);
-    pclose(fp);
-    printf("Logical CPUs: %d\n", n);
-    n += 5;
-
-    int fd = open("prime.txt", O_CREAT | O_WRONLY | O_TRUNC, 0644);
-    close(fd);
-
-    int range = rh - rl + 1;
-
-    for (int i = 1; i <= n; i++) {
-        printf("\nRunning with %d processes\n", i);
-
-        int fd_head = open("prime.txt", O_WRONLY | O_APPEND);
-        char header[100];
-        int len = sprintf(header, "\n%d total\n", i);
-        write(fd_head, header, len);
-        close(fd_head);
-
-        clock_t start = clock();
-
-        int numbers_per_process = range / i;
-
+    
         // Create children
         for (int j = 0; j < i; j++) {
             pid_t pid = fork();
