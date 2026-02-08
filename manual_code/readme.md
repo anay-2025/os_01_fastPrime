@@ -72,7 +72,7 @@ This section presents the experimental results obtained by running the program o
 
 Range : [1k-10k]
 
-📊 [Plot 1](screenshots/graphs/1k-10k.png)
+📊 [Plot 1](https://github.com/anay-2025/os_01_fastPrime/blob/main/screenshots/graphs/1k-10k.png)
 📊 [Plot 2](path/to/file)
 📊 [Plot 3](path/to/file)
 
