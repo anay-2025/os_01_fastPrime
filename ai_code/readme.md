@@ -1,3 +1,7 @@
+## 📝 Implementation Note
+
+This part of the project was developed using prompt-based AI tools to support an experimental comparison. The AI-generated code was produced under defined constraints, then reviewed, tested, and integrated by the contributors to evaluate performance and correctness against the manually implemented version.
+
 # Parallel Prime Search: LINUX Process Management
 
 A high-performance C program designed for Linux that demonstrates **parallel computing** using the `fork()` system call. This project explores the relationship between hardware concurrency (logical CPU cores) and software performance.
@@ -79,7 +83,7 @@ bash
 
 ## 👤 Author
 
-1)BHARATH REDDY
+1)RAMATATAGARI BHARATH KUMAR REDDY
 2)AMAN DAS
 3)SAMAM ROY
 4)SAUMYA KUMARI
