@@ -22,3 +22,30 @@ Compilation & execution in Linux/WSL
 Output generation (prime.txt)
 Experimental runs for multiple ranges
 Data collection for graphs
+
+📁 Folder Structure
+
+project-root/
+│
+├── README.md
+│
+├── ai_code/
+│   ├── code.c
+│   └── readme.md
+│
+├── manual_code/
+│   ├── man_made_code.c
+│   └── readme.md
+│
+├── screenshots/
+│   ├── outputs/
+│   │   ├── output(1-10k).png
+│   │   └── output(50-100k).png
+│   │
+│   └── graphs/
+│       ├── 1k-10k.png
+│       ├── 1k-10k2.png
+│       ├── 1k-10k3.png
+│       ├── 50k-100k.png
+│       ├── 50k-100k2.png
+│       └── 50k-100k3.png
