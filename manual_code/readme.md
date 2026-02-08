@@ -72,23 +72,23 @@ This section presents the experimental results obtained by running the program o
 
 Range : [1k-10k]
 
-📊 Plot 1 :
-📊 Plot 2 :
-📊 Plot 3 :
+📊 [Plot 1](path/to/file)
+📊 [Plot 2](path/to/file)
+📊 [Plot 3](path/to/file)
 
 Range : [50k-100k]
 
-📊 Plot 1 :
-📊 Plot 2 :
-📊 Plot 3 :
+📊 [Plot 1](path/to/file)
+📊 [Plot 2](path/to/file)
+📊 [Plot 3](path/to/file)
 
 ---
 
 🧪 Sample Output 
 
-🖼️ Output for range [1k-10k]
+🖼️ [Output for range 1k-10k](path/to/file)
 
-🖼️ Output for range [50k-100k]
+🖼️ [Output for range 50k-100k](path/to/file)
 
 ---
 
