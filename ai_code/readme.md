@@ -30,11 +30,6 @@ The program divides the total range into "chunks." If  is the range and  is the 
 5. **Parent** uses `wait(NULL)` to synchronize and ensure all children finish before measuring time.
 ---
 
-## 📊 Graph Screenshots
-
-### Execution Time vs Number of processes analysis
-
-
 
 ## 📊 Performance Observations
 
