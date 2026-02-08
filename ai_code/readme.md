@@ -33,18 +33,6 @@ The program divides the total range into "chunks." If  is the range and  is the 
 4. **Children** compute primes in their assigned sub-range and append to `prime.txt`.
 5. **Parent** uses `wait(NULL)` to synchronize and ensure all children finish before measuring time.
 ---
-### Execution Time Analysis (Different Ranges)
-
-<p align="center">
-  <img src="screenshots/outputs/output(1-10k).png" width="45%" />
-  <img src="screenshots/outputs/output(50-100k).png" width="45%" />
-</p>
-
-<p align="center">
-  <b>Left:</b> 1k–10k range &nbsp; | &nbsp;
-  <b>Right:</b> 50k–100k range
-</p>
-
 
 ## 📊 Performance Observations
 
@@ -81,23 +69,6 @@ bash
 1. Enter the lower range (e.g., 1000).
 2. Enter the upper range (e.g., 10000).
 3. View the live execution times in the terminal or check prime.txt for the full dataset.
-
-
-├── code.c
-├── prime.txt
-├── screenshots/
-│   ├── graphs/
-│   │   ├── 1k-10k.png
-│   │   ├── 1k-10k2.png
-│   │   ├── 1k-10k3.png
-│   │   ├── 50k-100k.png
-│   │   ├── 50k-100k2.png
-│   │   └── 50k-100k3.png
-│   └── outputs/
-│       ├── output(1-10k).png
-│       └── output(50-100k).png
-└── README.md
-
 
 ## ⚠️ Limitations
 
