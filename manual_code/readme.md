@@ -55,6 +55,43 @@ Each number is tested only up to its square root for divisibility, reducing unne
 
 ---
 
+## 🧪 Experimental Setup
+
+### Input Ranges Tested
+
+| Experiment | Range          |
+| ---------- | -------------- |
+| Small      | 1000 – 10000   |
+| Large      | 50000 – 100000 |
+
+---
+
+## 📊 Results & Plots
+
+This section presents the experimental results obtained by running the program on Linux systems with different input ranges and varying numbers of child processes.
+
+Range : [1k-10k]
+
+📊 Plot 1 :
+📊 Plot 2 :
+📊 Plot 3 :
+
+Range : [50k-100k]
+
+📊 Plot 1 :
+📊 Plot 2 :
+📊 Plot 3 :
+
+---
+
+🧪 Sample Output 
+
+🖼️ Output for range [1k-10k]
+
+🖼️ Output for range [50k-100k]
+
+---
+
 ## 📊 Performance Behavior
 
 - Increasing processes initially reduces runtime.  
