@@ -83,8 +83,6 @@ bash
 3. View the live execution times in the terminal or check prime.txt for the full dataset.
 
 
-## 📂 File Structure
-.
 ├── code.c
 ├── prime.txt
 ├── screenshots/
