@@ -38,6 +38,7 @@ project-root/
 │   └── README.md
 │
 ├── screenshots/
+│   │
 │   ├── outputs/
 │   │   ├── output_1-10k.png
 │   │   └── output_50-100k.png
@@ -51,4 +52,5 @@ project-root/
 │       └── 50k-100k_run3.png
 │
 └── .gitignore
+
 
